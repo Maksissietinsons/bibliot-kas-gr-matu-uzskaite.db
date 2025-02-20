@@ -1,0 +1,1 @@
+UPDATE books SET year = 2019 WHERE title = 'Klusa daba ar cerībām';
